@@ -1,0 +1,19 @@
+# Python
+sentinelml/venv/
+sentinelml/__pycache__/
+*.pyc
+
+# ML models
+sentinelml/models/*.pkl
+
+# Node
+aegis-ui/node_modules/
+aegis-ui/build/
+
+# OS
+.DS_Store
+
+# Data files (DO NOT COMMIT)
+sentinelml/data/
+*.csv
+*.txt
